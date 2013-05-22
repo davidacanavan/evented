@@ -1,1 +1,28 @@
 
+body
+{
+	padding-top: 5em;
+	padding-bottom: 5em;
+}
+
+.big-max-width
+{
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.jumbotron
+{
+	text-align: center;
+}
+
+.jumbotron h1
+{
+	font-size: 6em;
+	line-height: 1em;
+}
+
+.jumbotron .lead
+{
+	font-size: 1.8em;
+}
