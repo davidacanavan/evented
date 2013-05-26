@@ -32,9 +32,8 @@
 
 	<div class = "container big-max-width">
 
-<a href = "about.html">ABOUT US!!!!</a>
 		<div class = "jumbotron" id = "for-users">
-			<h1>People Unite!</h1>
+			<h1>The about page!!!</h1>
 			<p class = "lead">
 				Here's some text where i'll be saying various things! Don't you just love these things i'm saying!
 				You should totally check out my blog, it's just totes unrealz! Look at that! A z! even more unrealz!
