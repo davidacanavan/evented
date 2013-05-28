@@ -1,7 +1,7 @@
 
 <!DOCTYPE html>
 <head>
-	<title>Evented</title>
+	<title>Event'd</title>
 	<link rel = "stylesheet" href = "style.css"/>
 	<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
     <link href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
@@ -16,7 +16,7 @@
             <span class = "icon-bar"></span>
             <span class = "icon-bar"></span>
           </button>
-          <a class="brand" href="#">Evented</a>
+          <a class="brand" href="#">Event'd</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
               <li class="active"><a href="#for-users">For Users</a></li>
@@ -125,14 +125,14 @@
 		    </div>
 		    <div class="span3">
 		        <h2>Promote</h2>
-		        <img class="image-thumbnail" src="images/discover.png" alt="discover"/>
+		        <img class="image-thumbnail" src="images/share.png" alt="discover"/>
 		        <p>
 		        	Take advantage of our our unique <span class = "text-success">recommendation service</span> to <span class = "text-success">target the right audience</span> based on their social network and event preferences.
 		        </p>
 		    </div>
 		    <div class="span3">
 		        <h2>Entertain</h2>
-		        <img class="image-thumbnail" src="images/discover.png" alt="discover"/>
+		        <img class="image-thumbnail" src="images/tickets.png" alt="discover"/>
 		        <p>
 		        	<span class = "text-success">Sell tickets with ease</span>. Use our <span class = "text-success">Event'd Promotors app</span> to monitor guest entry. Our technology turns your <span class = "text-success">Android phone or tablet into a ticket reader</span>. 
 		        </p>
