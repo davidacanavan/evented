@@ -33,7 +33,7 @@
 		<div class = "jumbotron first-jumbotron" id = "for-users">
 			<h1>People Unite!</h1>
 			<p class = "lead">
-				Browse, share and comment on local events and more. Advertisements or popups? Not here! Purchase tickets directly and use your Android smartphone as your ticket. No Android? We'll send you out a free card or key-fob that you can keep with you at all times. No need for tickets ever again!
+				Discover, track and share and local events. Advertisements or popups? Not here! Purchase tickets directly and use your Android smartphone as your ticket. No Android? Use the Event'd card, phone sticker or keyring. No need for tickets ever again!
 			</p>
 		</div>
 
@@ -49,29 +49,66 @@
 	            <h2>Share</h2>
 		        <img class="image-thumbnail" src="images/share.png" alt="discover"/>
 	            <p>
-	            	Feeling nosey? Check out what <span class = "text-success">your friends are going to</span>! Feeling loud? <span class = "text-success">Share events with friends</span> and make them come too! Feeling really loud? I'm afraid you'll have to leave...
+	            	Feeling nosey? Check out what <span class = "text-success">your friends are going to</span>!
+	          	</p>
+	          	<p>
+	          		Feeling loud? <span class = "text-success">Share your events with friends</span>. Heck, bring them too!
+	          	</p>
+	          	<p>
+					Feeling really loud? We may have to ask you to leave...
 	          	</p>
 	        </div>
 	        <div class="span3">
 	          	<h2>Get Tickets</h2>
 		        <img class="image-thumbnail" src="images/tickets.png" alt="discover"/>
 	          	<p>
-	          		Use your <span class = "text-success">credit card</span> to secure tickets for you and your friends. Pre-arrange purcheses
+	          		Secure your tickets through our <span class = "text-success">online system</span>. Pre-arrange these purchases with friends.
 	          	</p>
+	          	<p>
+					With the Event'd app, <span class = "text-success">your phone is your ticket</span>. Just swipe it at the gate to redeem your purchase. Magic.
+				</p>
 	        </div>
 	        <div class = "span3">
 	          	<h2>Enjoy!</h2>
 		        <img class="image-thumbnail" src="images/enjoy.png" alt="discover"/>
 	          	<p>
-	          		<span class = "text-success">Dance! Dance! Dance!</span> We just don't recommend dancing if you go to a play though. When it's all over, <span class = "text-success">put up your pictures</span> and comments for everyone to see!
+	          		<span class = "text-success">Dance! Dance! Dance!</span> We just don't recommend dancing if you go to a play though. 
+	          	</p>
+	          	<p>
+	          		When it's all over, <span class = "text-success">put up your pictures</span> and comments for everyone to see! Let promoters know what you really think.
 	          	</p>
 			</div>
+		</div>
+
+		<div class="row">
+			<div class="span3"></div>
+		    <div class="span3">
+		        <h2>Recycle</h2>
+		        <img class="image-thumbnail" src="images/recycle.png" alt="discover"/>
+		        <p>
+		        	Sold-out event? Don't worry. The <span class = "text-success">Event'd Ticket Exchange</span> allows users to buy tickets safely at face value. We only sell electronic tickets. With <span class = "text-success">no more touts or fake tickets</span>, you never miss out again!
+		        </p>
+		        <p>
+					Changed your mind? Register your ticket in the Event'd Ticket Exchange and we'll <span class = "text-success">resell your ticket</span> to a willing buyer.
+		        </p>
+		    </div>
+		    <div class="span3">
+		        <h2>NFC</h2>
+		        <img class="image-thumbnail" src="images/nfc.png" alt="discover"/>
+		        <p>
+		        	Never forget a ticket again. Event'd uses Near Field Communication (NFC) to securely redeem and transfer tickets. The Event'd app makes any <span class = "text-success">Android device a tangible ticket</span>.
+		        </p>
+		        <p>
+					<span class = "text-success">Don't have an Android</span> phone? Never mind, have one of our <span class = "text-success">Event'd NFC stickers</span> for your phone. If you're lucky, you may get your hands on the (very exclusive!) <span class = "text-success">Event'd NFC iPhone cover</span>.
+		        </p>
+		    </div>
+			<div class="span3"></div>
 		</div>
 
 		<div class = "jumbotron" id = "for-promoters">
 			<h1>Promoters of the World!</h1>
 			<p class = "lead">
-				Small and medium promoters alike - set up your event within minutes! Upload custom artwork, descriptions and tags. Target the audience you need. Get paid the way you want to.
+				Small and medium promoters alike. Target the audience you need in the way that you want. Manage events seamlessly and get paid the way that suits you.
 			</p>
 		</div>
 
@@ -80,29 +117,39 @@
 		        <h2>Create</h2>
 		        <img class="image-thumbnail" src="images/create.png" alt="discover"/>
 		        <p>
-		        	Set up an account with us and begin <span class = "text-success">promoting and selling within minutes</span>. A small deposit will be taken to protect the community and ensure the <span class = "text-success">trust of the user-base</span>. 
+		        	Set up an account with us and begin <span class = "text-success">promoting and selling within minutes</span>. 
+		        </p>
+		        <p>
+		        	Get your <span class = "text-success">events trending</span>. We create a <span class = "text-success">secure market place</span> between promoters and their audience.
 		        </p>
 		    </div>
 		    <div class="span3">
 		        <h2>Promote</h2>
 		        <img class="image-thumbnail" src="images/discover.png" alt="discover"/>
 		        <p>
-		        	Promote your event to the extent that <span class = "text-success">suits your marketing and PR budget</span>. Use our unique advertising features to ensure your event is <span class = "text-success">seen by your target market</span>. Narrow your audience by interest, what they like to talk about, what event types they have been to and what they have tickets for already. This list is by no means exhaustive and <span class = "text-success">we would love to have your input</span>.
+		        	Take advantage of our our unique <span class = "text-success">recommendation service</span> to <span class = "text-success">target the right audience</span> based on their social network and event preferences.
 		        </p>
 		    </div>
 		    <div class="span3">
 		        <h2>Entertain</h2>
 		        <img class="image-thumbnail" src="images/discover.png" alt="discover"/>
 		        <p>
-		        	<span class = "text-success">Sell tickets with ease</span> and have all payment and commission systems taken care of by us. Use traditional NFC (near field communication) readers or <span class = "text-success">ticket check with Android tablets</span> at the door. Ensure only the devices you allow to be used are actually used at checking time to <span class = "text-success">prevent ticket fraud</span>. When all is done, browse our <span class = "text-success">event report to see comments on what users thought about it</span> so as to improve future events.
+		        	<span class = "text-success">Sell tickets with ease</span>. Use our <span class = "text-success">Event'd Promotors app</span> to monitor guest entry. Our technology turns your <span class = "text-success">Android phone or tablet into a ticket reader</span>. 
 		        </p>
+		        <p>
+		        	Never worry about ticket fraud again. We'll take care of the paperwork and heavy lifting.
+		        </p>
+		        Sell tickets with ease. 
 		    </div>
 		    <div class = "span3">
 		        <h2>Get Paid!</h2>
 		        <img class="image-thumbnail" src="images/get_paid.png" alt="discover"/>
 		        <p>
-		        	On completion of the event, have the <span class = "text-success">money directly transferred to your bank</span> account. If you wish to avoid nasty bank fees we can deal in <span class = "text-success">Paypal or Stripe</span> account systems to facilitate your needs. Anything else that would make your life easier? <span class = "text-success">Please call and we'll help!</span>
+		        	Event'd makes payment simple using <span class = "text-success">Paypal or Stripe</span>. Payment is delivered after a waiting period to create a <span class = "text-success">trustworthy environment</span> for event guests. But don't sweat it, the more you deal with us, the shorter your waiting period!
 		        </p>
+		        <p>
+		        	Check out your event's page to receive direct <span class = "text-success">feedback from guests</span>. They'll post content which you can use to promote future events.
+				</p>
 		    </div>
 		</div>
 
