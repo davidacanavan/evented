@@ -42,8 +42,8 @@
 
 		<div class="row">
 			 <div class="inline-desc">
-	            <h2>Who and the what now?</h2>
-		        <img class="square-thumbnail pull-left" src="images/Eventd.png" alt="discover"/>
+	            <h2>Who and the What Now?</h2>
+		        <img class="square-thumbnail pull-left" src="images/eventd.png" alt="discover"/>
 	            <p>
 		        	Eventd is an easy way for users to track and buy tickets for their favourite events. 
 		        </p>
@@ -65,8 +65,8 @@
 		        </p>
 		    </div>
 	        <div class="inline-desc">
-	            <h2>Use your phone</h2>
-		        <img class="square-thumbnail pull-left" src="images/nfc.png" alt="discover"/>
+	            <h2>Use your Phone</h2>
+		        <img class="square-thumbnail pull-left" src="images/nfc.png" alt="Use your Phone"/>
 	            <p>
 		        	Never forget a ticket again. Eventd uses Near Field Communication (NFC) to securely redeem and transfer tickets. The Eventd app makes any <span class = "text-success">Android device a tangible ticket</span>.
 		        </p>
@@ -76,7 +76,7 @@
 	        </div>
 	        <div class="inline-desc">
 		        <h2>Give Feedback</h2>
-		        <img class="square-thumbnail pull-right" src="images/camera.png" alt="camera"/>
+		        <img class="square-thumbnail pull-right" src="images/camera.png" alt="Give Feedback"/>
 		        <p>
 		        	Eventd gives users and promoters a unique opportunity to directly connect with one another. Our website and app provides promoters with a platform to connect with a target audience and their social network using content prior to the event.
 		        </p>
@@ -96,7 +96,7 @@
 		<div class="row">
 		    <div class="span3">
 		        <h2>Discover</h2>
-		        <img class="image-thumbnail" src="images/discover.png" alt="discover"/>
+		        <img class="image-thumbnail" src="images/discover.png" alt="Discover"/>
 		        <p>
 		        	Browse our <span class = "text-success">live wall</span> feature to discover upcoming events. The Eventd wall is <span class = "text-success">unique for each user</span> and changes relative to your social network.
 		        </p>
@@ -119,7 +119,7 @@
 	        </div>
 	        <div class="span3">
 	          	<h2>Get Tickets</h2>
-		        <img class="image-thumbnail" src="images/tickets.png" alt="tickets"/>
+		        <img class="image-thumbnail" src="images/tickets.png" alt="Get Tickets"/>
 	          	<p>
 	          		Secure your tickets through our <span class = "text-success">online system</span>. Pre-arrange these purchases with friends.
 	          	</p>
@@ -129,7 +129,7 @@
 	        </div>
 	        <div class = "span3">
 	          	<h2>Enjoy!</h2>
-		        <img class="image-thumbnail" src="images/enjoy.png" alt="discover"/>
+		        <img class="image-thumbnail" src="images/enjoy.png" alt="Enjoy!"/>
 	          	<p>
 	          		<span class = "text-success">Dance! Dance! Dance!</span> We just don't recommend dancing if you go to a play though. 
 	          	</p>
@@ -149,7 +149,7 @@
 		<div class="row">
 		    <div class="span3">
 		        <h2>Create</h2>
-		        <img class="image-thumbnail" src="images/create.png" alt="discover"/>
+		        <img class="image-thumbnail" src="images/create.png" alt="Create"/>
 		        <p>
 		        	Set up an account with us and begin <span class = "text-success">promoting and selling within minutes</span>. 
 		        </p>
@@ -163,7 +163,7 @@
 		    </div>
 		    <div class="span3">
 		        <h2>Promote</h2>
-		        <img class="image-thumbnail" src="images/Promote.png" alt="discover"/>
+		        <img class="image-thumbnail" src="images/promote.png" alt="Promote"/>
 		        <p>
 		        	Take advantage of our our unique <span class = "text-success">recommendation service</span> to <span class = "text-success">target the right audience</span> based on their social network and event preferences.
 		        </p>
@@ -173,7 +173,7 @@
 		    </div>
 		    <div class="span3">
 		        <h2>Entertain</h2>
-		        <img class="image-thumbnail" src="images/Entertain.png" alt="discover"/>
+		        <img class="image-thumbnail" src="images/entertain.png" alt="Entertain"/>
 		        <p>
 		        	<span class = "text-success">Sell tickets with ease</span>. Use our <span class = "text-success">Eventd Promotors app</span> to monitor guest entry. Our technology turns your <span class = "text-success">Android phone or tablet into a ticket reader</span>. 
 		        </p>
@@ -184,7 +184,7 @@
 		    </div>
 		    <div class = "span3">
 		        <h2>Get Paid!</h2>
-		        <img class="image-thumbnail" src="images/get_paid.png" alt="discover"/>
+		        <img class="image-thumbnail" src="images/get_paid.png" alt="Get Paid!"/>
 		        <p>
 		        	Eventd makes payment simple. Payment is delivered after a short waiting period. But don't sweat it, the waiting period creates a <span class = "text-success">trustworthy environment</span> and shortens over time!
 		        </p>
@@ -202,13 +202,12 @@
 
 			<div class="about-us">
 			 <div class="inline-desc">
-	            
-		        <img class="square-thumbnail pull-left" src="images/Design.png" alt="discover"/>
+		        <img class="square-thumbnail pull-left" src="images/design.png" alt="Suzanne O'Grady"/>
 	            <p>
 		        	<span class = "text-about"> Suzanne </span> is a quantitative analyst with a background in finance and more importantly... a passion for art and music. It's her love of gigs that lead her to create Eventd.
 		        </p>
 		        <p>
-		        	Connect with Suzanne on <a href="http://ie.linkedin.com/in/suzanneogrady">Linkedin</a></li>
+		        	Connect with Suzanne on <a href="http://ie.linkedin.com/in/suzanneogrady">Linkedin</a>
 		        </p>
 		        <p>
 					
@@ -216,12 +215,12 @@
 	        </div>
 		    <div class="inline-desc">
 		        
-		        <img class="square-thumbnail pull-right" src="images/Tech.png" alt="discover"/>
+		        <img class="square-thumbnail pull-right" src="images/tech.png" alt="David Canavan"/>
 		        <p>
 		        	<span class = "text-about"> David </span> is a born again techie, currently finishing up Computer Science Masters in UCD, having spent two years previous to that working as an Actuary. Basically... he makes things work.
 		        </p>
 		        <p>
-					Connect with Dave on <a href="http://ie.linkedin.com/in/davidacanavan">Linkedin</a></li>
+					Connect with Dave on <a href="http://ie.linkedin.com/in/davidacanavan">Linkedin</a>
 		        </p>
 		    </div>
 		</div>
