@@ -1,7 +1,7 @@
 
 <!DOCTYPE html>
 <head>
-	<title>Event'd</title>
+	<title>Eventd</title>
 	<link rel = "stylesheet" href = "style.css"/>
 	<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
     <link href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
@@ -16,12 +16,13 @@
             <span class = "icon-bar"></span>
             <span class = "icon-bar"></span>
           </button>
-          <a class="brand" href="#">Event'd</a>
+          <a class="brand" href="#">Eventd </a>
+
           <div class="nav-collapse collapse">
             <ul class="nav">
               <li class="active"><a href="#for-users">For Users</a></li>
               <li><a href="#for-promoters">For Promoters</a></li>
-              <li><a href="#about-us">About Us</a></li>
+              <li><a href="#about-us">The Eventd Team</a></li>
             </ul>
           </div>
         </div>
@@ -29,11 +30,66 @@
     </div>
 
 	<div class = "container big-max-width">
+		<div class = "jumbotron first-jumbotron">
+			<h1>Eventd</h1>
+			<p class = "lead">
+				This is your new social event's network.
+			</p>
+			<p class = "lead">
+				Our website and app redesigns the user experience for event discovery and sets a new standard for event promoters by creating a more flexible and innovative ticketing service.
+			</p>
+		</div>
 
+		<div class="row">
+			 <div class="inline-desc">
+	            <h2>Who and the what now?</h2>
+		        <img class="square-thumbnail pull-left" src="images/Eventd.png" alt="discover"/>
+	            <p>
+		        	Eventd is an easy way for users to track and buy tickets for their favourite events. 
+		        </p>
+		        <p>
+		        	As a social network for events, the Eventd UI simplifies event discovery. Users and promoters interact by sharing events, and posting content to event pages.
+		        </p>
+		        <p>
+					Eventd will tailor the displayed information individually for each user simplifying event discovery.
+		        </p>
+	        </div>
+		    <div class="inline-desc">
+		        <h2>Eventd Ticket Exchange</h2>
+		        <img class="square-thumbnail pull-right" src="images/recycle.png" alt="discover"/>
+		        <p>
+		        	Sold-out event? Don't worry. The <span class = "text-success">Eventd Ticket Exchange</span> allows users to buy tickets safely at face value. We only sell electronic tickets. We <span class = "text-success"> eliminate touts and fake tickets</span>so that you never miss out again!
+		        </p>
+		        <p>
+					Changed your mind? Register your ticket in the Eventd Ticket Exchange and we'll <span class = "text-success">resell your ticket</span> to a willing buyer.
+		        </p>
+		    </div>
+	        <div class="inline-desc">
+	            <h2>Use your phone</h2>
+		        <img class="square-thumbnail" id = "left-square" src="images/nfc.png" alt="discover"/>
+	            <p>
+		        	Never forget a ticket again. Eventd uses Near Field Communication (NFC) to securely redeem and transfer tickets. The Eventd app makes any <span class = "text-success">Android device a tangible ticket</span>.
+		        </p>
+		        <p>
+					<span class = "text-success">Don't have an Android</span> phone? Never mind, have one of our <span class = "text-success">Eventd NFC stickers</span> for your phone. If you're lucky, you may get your hands on the (very exclusive!) <span class = "text-success">Eventd NFC iPhone cover</span>.
+		        </p>
+	        </div>
+	        <div class="inline-desc">
+		        <h2>Give Feedback</h2>
+		        <img class="square-thumbnail" id = "right-square" src="images/camera.png" alt="discover"/>
+		        <p>
+		        	Eventd gives users and promoters a unique opportunity to directly connect with one another. Our website and app provides promoters with a platform to connect with a target audience and their social network using content prior to the event.
+		        </p>
+		        <p>
+					Users can directly communicate with promoters by uploading content from the event, or giving direct feedback on the event page.
+		        </p>
+		    </div>
+	        
+		</div>
 		<div class = "jumbotron first-jumbotron" id = "for-users">
 			<h1>People Unite!</h1>
 			<p class = "lead">
-				Discover, track and share and local events. Advertisements or popups? Not here! Purchase tickets directly and use your Android smartphone as your ticket. No Android? Use the Event'd card, phone sticker or keyring. No need for tickets ever again!
+				Discover, track and share your favourite events. Purchase tickets directly using your smart phone. Redeem your tickets using your smartphone.
 			</p>
 		</div>
 
@@ -42,7 +98,10 @@
 		        <h2>Discover</h2>
 		        <img class="image-thumbnail" src="images/discover.png" alt="discover"/>
 		        <p>
-		        	Browse our <span class = "text-success">live wall</span> feature to discover upcoming events. The Event'd wall is <span class = "text-success">unique for each user</span> and changes relative to your social network.
+		        	Browse our <span class = "text-success">live wall</span> feature to discover upcoming events. The Eventd wall is <span class = "text-success">unique for each user</span> and changes relative to your social network.
+		        </p>
+		        <p>
+		        	Discover what events are trending.
 		        </p>
 		    </div>
 	        <div class="span3">
@@ -65,7 +124,7 @@
 	          		Secure your tickets through our <span class = "text-success">online system</span>. Pre-arrange these purchases with friends.
 	          	</p>
 	          	<p>
-					With the Event'd app, <span class = "text-success">your phone is your ticket</span>. Just swipe it at the gate to redeem your purchase. Magic.
+					With the Eventd app, <span class = "text-success">your phone is your ticket</span>. Just swipe it at the gate to redeem your purchase. Magic.
 				</p>
 	        </div>
 	        <div class = "span3">
@@ -80,35 +139,10 @@
 			</div>
 		</div>
 
-		<div class="row">
-			<div class="span3"></div>
-		    <div class="span3">
-		        <h2>Recycle</h2>
-		        <img class="image-thumbnail" src="images/recycle.png" alt="discover"/>
-		        <p>
-		        	Sold-out event? Don't worry. The <span class = "text-success">Event'd Ticket Exchange</span> allows users to buy tickets safely at face value. We only sell electronic tickets. With <span class = "text-success">no more touts or fake tickets</span>, you never miss out again!
-		        </p>
-		        <p>
-					Changed your mind? Register your ticket in the Event'd Ticket Exchange and we'll <span class = "text-success">resell your ticket</span> to a willing buyer.
-		        </p>
-		    </div>
-		    <div class="span3">
-		        <h2>NFC</h2>
-		        <img class="image-thumbnail" src="images/nfc.png" alt="discover"/>
-		        <p>
-		        	Never forget a ticket again. Event'd uses Near Field Communication (NFC) to securely redeem and transfer tickets. The Event'd app makes any <span class = "text-success">Android device a tangible ticket</span>.
-		        </p>
-		        <p>
-					<span class = "text-success">Don't have an Android</span> phone? Never mind, have one of our <span class = "text-success">Event'd NFC stickers</span> for your phone. If you're lucky, you may get your hands on the (very exclusive!) <span class = "text-success">Event'd NFC iPhone cover</span>.
-		        </p>
-		    </div>
-			<div class="span3"></div>
-		</div>
-
 		<div class = "jumbotron" id = "for-promoters">
 			<h1>Promoters of the World!</h1>
 			<p class = "lead">
-				Small and medium promoters alike. Target the audience you need in the way that you want. Manage events seamlessly and get paid the way that suits you.
+				Target the audience you need in the way that you want. Manage events seamlessly and get paid the way that suits you.
 			</p>
 		</div>
 
@@ -120,44 +154,78 @@
 		        	Set up an account with us and begin <span class = "text-success">promoting and selling within minutes</span>. 
 		        </p>
 		        <p>
-		        	Get your <span class = "text-success">events trending</span>. We create a <span class = "text-success">secure market place</span> between promoters and their audience.
+		        	Customise your event page to advertise in a unique way
+		        </p>
+
+		        <p>
+		        	 We create a <span class = "text-success">secure market place</span> between promoters and their audience.
 		        </p>
 		    </div>
 		    <div class="span3">
 		        <h2>Promote</h2>
-		        <img class="image-thumbnail" src="images/share.png" alt="discover"/>
+		        <img class="image-thumbnail" src="images/Promote.png" alt="discover"/>
 		        <p>
 		        	Take advantage of our our unique <span class = "text-success">recommendation service</span> to <span class = "text-success">target the right audience</span> based on their social network and event preferences.
+		        </p>
+		        <p>
+		        	Get your <span class = "text-success">events trending</span>. Let news of your event spread like wildfire.
 		        </p>
 		    </div>
 		    <div class="span3">
 		        <h2>Entertain</h2>
-		        <img class="image-thumbnail" src="images/tickets.png" alt="discover"/>
+		        <img class="image-thumbnail" src="images/Entertain.png" alt="discover"/>
 		        <p>
-		        	<span class = "text-success">Sell tickets with ease</span>. Use our <span class = "text-success">Event'd Promotors app</span> to monitor guest entry. Our technology turns your <span class = "text-success">Android phone or tablet into a ticket reader</span>. 
+		        	<span class = "text-success">Sell tickets with ease</span>. Use our <span class = "text-success">Eventd Promotors app</span> to monitor guest entry. Our technology turns your <span class = "text-success">Android phone or tablet into a ticket reader</span>. 
 		        </p>
 		        <p>
 		        	Never worry about ticket fraud again. We'll take care of the paperwork and heavy lifting.
 		        </p>
-		        Sell tickets with ease. 
+		         
 		    </div>
 		    <div class = "span3">
 		        <h2>Get Paid!</h2>
 		        <img class="image-thumbnail" src="images/get_paid.png" alt="discover"/>
 		        <p>
-		        	Event'd makes payment simple using <span class = "text-success">Paypal or Stripe</span>. Payment is delivered after a waiting period to create a <span class = "text-success">trustworthy environment</span> for event guests. But don't sweat it, the more you deal with us, the shorter your waiting period!
+		        	Eventd makes payment simple. Payment is delivered after a short waiting period. But don't sweat it, the waiting period creates a <span class = "text-success">trustworthy environment</span> and shortens over time!
 		        </p>
 		        <p>
-		        	Check out your event's page to receive direct <span class = "text-success">feedback from guests</span>. They'll post content which you can use to promote future events.
+		        	Receive direct <span class = "text-success">feedback from guests</span> on the event page and view their uploaded content.
 				</p>
 		    </div>
 		</div>
 
 		<div class = "jumbotron" id = "about-us">
-			<h1>The Evented Team</h1>
+			<h1>The Eventd Team</h1>
 			<p class = "lead">
-				Small and medium promoters alike - set up your event within minutes! Upload custom artwork, descriptions and tags. Target the audience you need. Get paid the way you want to.
+				Eventd was founded at the start of 2013 by Suzanne O'Grady and David Canavan: Two people who agreed that there was too much hassle in purchasing tickets for their favourite events. 
 			</p>
+
+			<div class="about-us">
+			 <div class="inline-desc">
+	            
+		        <img class="square-thumbnail" id = "left-square" src="images/Design.png" alt="discover"/>
+	            <p>
+		        	<span class = "text-about"> Suzanne </span> is a quantitative analyst with a background in finance and more importantly... a passion for art and music. It's her love of gigs that lead her to create Eventd.
+		        </p>
+		        <p>
+		        	Connect with Suzanne on <a href="http://www.linkedin.com/ppl/webprofile?action=vmi&id=253008334&pvs=pp&authToken=3r-P&authType=name&locale=en_US&trk=ndir_viewmore&lnk=vw_pprofile">Linkedin</a></li>
+		        </p>
+		        <p>
+					
+		        </p>
+	        </div>
+		    <div class="inline-desc">
+		        
+		        <img class="square-thumbnail" id = "right-square" src="images/Tech.png" alt="discover"/>
+		        <p>
+		        	<span class = "text-about"> David </span> is a born again techie, currently finishing up Computer Science Masters in UCD, having spent two years previous to that working as an Actuary. Basically...he makes things work.
+		        </p>
+		        <p>
+					Connect with Dave on <a href="http://www.linkedin.com/profile/view?id=100053741&authType=NAME_SEARCH&authToken=OTVb&locale=en_US&srchid=f468405d-1e3a-4e46-9585-9c75317b5664-0&srchindex=1&srchtotal=61&goback=%2Efps_PBCK_david+canavan_*1_*1_*1_*1_*1_*1_*2_*1_Y_*1_*1_*1_false_1_R_*1_*51_*1_*51_true_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2&pvs=ps&trk=pp_profile_name_link">Linkedin</a></li>
+		        </p>
+		    </div>
+		</div>
+
 		</div>
 
 	</div>

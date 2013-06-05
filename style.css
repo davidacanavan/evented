@@ -9,11 +9,30 @@
 {
 	display: block;
 	text-align: center;
-	width: 160px;
-	height: 160px;
+	width: 180px;
+	height: 180px;
 	margin-bottom: 1em;
 	margin-left: auto;
 	margin-right: auto;
+}
+.square-thumbnail
+{
+	
+	text-align: center;
+	width: 180px;
+	height: 180px;
+	margin-bottom: 1em;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.inline-desc
+{
+	margin-top: 150px;
+	display: block;
+	width: 600px;
+	height: 230px;
+	margin: auto;
+	
 }
 
 .big-max-width
@@ -30,11 +49,41 @@
 
 .jumbotron h1
 {
-	font-size: 6em;
+	margin-top: 200px;
+	font-size: 7em;
 	line-height: 1em;
+	font-weight:bold;
 }
 
 .jumbotron .lead
 {
-	font-size: 1.8em;
+	font-size: 1.4em;
+	color: #779aa0;
+	margin-left: 150px;
+	margin-right: 150px;
+	line-height:1;
+
+}
+
+#right-square{
+	float: right;
+}
+
+#left-square{
+	float: left;
+}
+.nav-collapse{
+	float:right;
+	font-weight: bolder;
+}
+.brand{
+	font-weight: bolder;
+	color: white;
+
+}
+.about-us{
+	margin-top: 50px;
+}
+.text-about{
+	font-weight: bolder;
 }
