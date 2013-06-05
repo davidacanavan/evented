@@ -66,7 +66,7 @@
 		    </div>
 	        <div class="inline-desc">
 	            <h2>Use your phone</h2>
-		        <img class="square-thumbnail" id = "left-square" src="images/nfc.png" alt="discover"/>
+		        <img class="square-thumbnail pull-left" src="images/nfc.png" alt="discover"/>
 	            <p>
 		        	Never forget a ticket again. Eventd uses Near Field Communication (NFC) to securely redeem and transfer tickets. The Eventd app makes any <span class = "text-success">Android device a tangible ticket</span>.
 		        </p>
@@ -76,7 +76,7 @@
 	        </div>
 	        <div class="inline-desc">
 		        <h2>Give Feedback</h2>
-		        <img class="square-thumbnail" id = "right-square" src="images/camera.png" alt="discover"/>
+		        <img class="square-thumbnail pull-right" src="images/camera.png" alt="camera"/>
 		        <p>
 		        	Eventd gives users and promoters a unique opportunity to directly connect with one another. Our website and app provides promoters with a platform to connect with a target audience and their social network using content prior to the event.
 		        </p>
@@ -106,7 +106,7 @@
 		    </div>
 	        <div class="span3">
 	            <h2>Share</h2>
-		        <img class="image-thumbnail" src="images/share.png" alt="discover"/>
+		        <img class="image-thumbnail" src="images/share.png" alt="share"/>
 	            <p>
 	            	Feeling nosey? Check out what <span class = "text-success">your friends are going to</span>!
 	          	</p>
@@ -119,7 +119,7 @@
 	        </div>
 	        <div class="span3">
 	          	<h2>Get Tickets</h2>
-		        <img class="image-thumbnail" src="images/tickets.png" alt="discover"/>
+		        <img class="image-thumbnail" src="images/tickets.png" alt="tickets"/>
 	          	<p>
 	          		Secure your tickets through our <span class = "text-success">online system</span>. Pre-arrange these purchases with friends.
 	          	</p>
@@ -203,12 +203,12 @@
 			<div class="about-us">
 			 <div class="inline-desc">
 	            
-		        <img class="square-thumbnail" id = "left-square" src="images/Design.png" alt="discover"/>
+		        <img class="square-thumbnail pull-left" src="images/Design.png" alt="discover"/>
 	            <p>
 		        	<span class = "text-about"> Suzanne </span> is a quantitative analyst with a background in finance and more importantly... a passion for art and music. It's her love of gigs that lead her to create Eventd.
 		        </p>
 		        <p>
-		        	Connect with Suzanne on <a href="http://www.linkedin.com/ppl/webprofile?action=vmi&id=253008334&pvs=pp&authToken=3r-P&authType=name&locale=en_US&trk=ndir_viewmore&lnk=vw_pprofile">Linkedin</a></li>
+		        	Connect with Suzanne on <a href="http://ie.linkedin.com/in/suzanneogrady">Linkedin</a></li>
 		        </p>
 		        <p>
 					
@@ -216,12 +216,12 @@
 	        </div>
 		    <div class="inline-desc">
 		        
-		        <img class="square-thumbnail" id = "right-square" src="images/Tech.png" alt="discover"/>
+		        <img class="square-thumbnail pull-right" src="images/Tech.png" alt="discover"/>
 		        <p>
-		        	<span class = "text-about"> David </span> is a born again techie, currently finishing up Computer Science Masters in UCD, having spent two years previous to that working as an Actuary. Basically...he makes things work.
+		        	<span class = "text-about"> David </span> is a born again techie, currently finishing up Computer Science Masters in UCD, having spent two years previous to that working as an Actuary. Basically... he makes things work.
 		        </p>
 		        <p>
-					Connect with Dave on <a href="http://www.linkedin.com/profile/view?id=100053741&authType=NAME_SEARCH&authToken=OTVb&locale=en_US&srchid=f468405d-1e3a-4e46-9585-9c75317b5664-0&srchindex=1&srchtotal=61&goback=%2Efps_PBCK_david+canavan_*1_*1_*1_*1_*1_*1_*2_*1_Y_*1_*1_*1_false_1_R_*1_*51_*1_*51_true_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2&pvs=ps&trk=pp_profile_name_link">Linkedin</a></li>
+					Connect with Dave on <a href="http://ie.linkedin.com/in/davidacanavan">Linkedin</a></li>
 		        </p>
 		    </div>
 		</div>
@@ -229,7 +229,6 @@
 		</div>
 
 	</div>
-
 
 	<script src="http://code.jquery.com/jquery.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>

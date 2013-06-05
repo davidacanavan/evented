@@ -1,4 +1,9 @@
 
+body
+{
+	padding-bottom: 5em;
+}
+
 .auto-margins
 {
 	margin-left: auto;
@@ -25,6 +30,7 @@
 	margin-left: 10px;
 	margin-right: 10px;
 }
+
 .inline-desc
 {
 	margin-top: 150px;
@@ -65,13 +71,6 @@
 
 }
 
-#right-square{
-	float: right;
-}
-
-#left-square{
-	float: left;
-}
 .nav-collapse{
 	float:right;
 	font-weight: bolder;
